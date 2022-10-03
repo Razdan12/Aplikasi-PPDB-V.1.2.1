@@ -1,0 +1,1 @@
+[29-Aug-2021 21:49:05 Asia/Jakarta] PHP Fatal error:  Cannot redeclare tgl_indo() (previously declared in /home/pdjqvsqb/data.ma.nwkaltara.web.id/login/mod_daftar/alldaftar.php:13) in /home/pdjqvsqb/data.ma.nwkaltara.web.id/config/function.php on line 409
